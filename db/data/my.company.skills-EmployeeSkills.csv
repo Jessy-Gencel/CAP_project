@@ -1,0 +1,4 @@
+ID,attributeExternalId,personExternalId,personIdentifierType,proficiencyLevel,proficiencyAssignDate,preferenceValue,status,lastModifiedBy,lastModifiedAt,expectedRating
+skill-001,SKILL-001,EMP-001,COMPANY_ID,3,2023-01-15T00:00:00Z,2,ACTIVE,admin,2023-06-20T14:30:00Z,4
+skill-002,SKILL-002,EMP-001,COMPANY_ID,2,2023-02-10T00:00:00Z,1,ACTIVE,admin,2023-06-20T14:31:00Z,3
+skill-003,SKILL-003,EMP-002,COMPANY_ID,4,2023-03-05T00:00:00Z,3,ACTIVE,admin,2023-06-20T14:32:00Z,5
