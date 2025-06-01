@@ -13,13 +13,13 @@ File or Folder | Purpose
 `readme.md` | this getting started guide
 
 
-## Next Steps
+## Running the project
 
 - Open a new terminal and run `cds watch`
-- (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
-- Start adding content, for example, a [db/schema.cds](db/schema.cds).
+- Open a second terminal and run the command cd ./app/project1
+- In the same terminal run npm start
+- A Fiori page should now be loaded on port 8080.
+- Click on the cogwheel in the middle and select all fields
+- Press "go" and watch the data loaded.
 
 
-## Learn More
-
-Learn more at https://cap.cloud.sap/docs/get-started/.
