@@ -15,6 +15,8 @@ File or Folder | Purpose
 
 ## Running the project
 
+- Clone this repository
+- Copy the .env file which was provided in the upload of this assignement.
 - Open a new terminal and run `cds watch`
 - Open a second terminal and run the command cd ./app/project1
 - In the same terminal run npm start
